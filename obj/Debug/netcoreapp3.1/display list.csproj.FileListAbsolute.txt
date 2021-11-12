@@ -1,0 +1,93 @@
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/display list.exe
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/display list.deps.json
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/display list.runtimeconfig.json
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/display list.runtimeconfig.dev.json
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/display list.dll
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/display list.pdb
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/display list.Views.dll
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/display list.Views.pdb
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/kunal/source/repos/display list/display list/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.csproj.AssemblyReference.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.AssemblyInfoInputs.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.AssemblyInfo.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.csproj.CoreCompileInputs.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.RazorAssemblyInfo.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.RazorAssemblyInfo.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/staticwebassets/display list.StaticWebAssets.Manifest.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/staticwebassets/display list.StaticWebAssets.xml
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/scopedcss/bundle/display list.styles.css
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.TagHelpers.input.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.TagHelpers.output.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.RazorCoreGenerate.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Display/list_display.cshtml.g.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.RazorTargetAssemblyInfo.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.RazorTargetAssemblyInfo.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.Views.pdb
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.csproj.CopyComplete
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.dll
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.pdb
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/display list.genruntimeconfig.cache
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Display/Edit.cshtml.g.cs
+C:/Users/kunal/source/repos/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Display/Create.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/appsettings.json
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/display list
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/display list.deps.json
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/display list.runtimeconfig.json
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/display list.runtimeconfig.dev.json
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/display list.dll
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/display list.pdb
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/display list.Views.dll
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/display list.Views.pdb
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.csprojAssemblyReference.cache
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.AssemblyInfoInputs.cache
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.AssemblyInfo.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.csproj.CoreCompileInputs.cache
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.MvcApplicationPartsAssemblyInfo.cache
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.RazorAssemblyInfo.cache
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.RazorAssemblyInfo.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.TagHelpers.input.cache
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.TagHelpers.output.cache
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.RazorCoreGenerate.cache
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Display/Create.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Display/Edit.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Display/list_display.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.RazorTargetAssemblyInfo.cache
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.RazorTargetAssemblyInfo.cs
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.Views.pdb
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.csproj.CopyComplete
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/staticwebassets/display list.StaticWebAssets.Manifest.cache
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/staticwebassets/display list.StaticWebAssets.xml
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.dll
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.pdb
+/home/kali/WorkPlace/ASP_DOTNET_MVC(curd operation)/display list/display list/obj/Debug/netcoreapp3.1/display list.genruntimeconfig.cache

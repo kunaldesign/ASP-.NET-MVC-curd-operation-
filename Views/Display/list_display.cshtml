@@ -1,0 +1,91 @@
+﻿@model IEnumerable<display_entity>;
+@{
+    pager pager = new pager();
+    int pageNo = 0;
+    if (ViewBag.Pager != null)
+    {
+        pager = ViewBag.Pager;
+        pageNo = pager.CurrentPage;
+    }
+}
+
+<h1>List of the student</h1><br>
+
+                            <form asp-controller="Display" asp-action="list_display">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                @Html.DisplayNameFor(model => model.id)
+                                            </th>
+                                            <th scope="col">
+                                                @Html.DisplayNameFor(model => model.txtName)
+                                            </th>
+                                            <th scope="col">
+                                                @Html.DisplayNameFor(model => model.sex)
+                                            </th>
+                                            <th scope="col">
+                                                @Html.DisplayNameFor(model => model.txtCourse)
+                                            </th>
+                                            <th scope="col">
+                                                @Html.DisplayNameFor(model => model.TC)
+                                            </th>
+                                            <th scope="col">
+                                                @Html.DisplayNameFor(model => model.txtFeed)
+                                            </th>
+                                            <th scope="col">
+
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            using (Html.BeginForm("Delete", "Display", new { id = item.id }))
+                                            {
+                                                <tr>
+                                                    <td scope="row">
+                                                        @Html.DisplayFor(modelItem => item.id)
+                                                    </td>
+                                                    <td>
+                                                        @Html.DisplayFor(modelItem => item.txtName)
+                                                    </td>
+                                                    <td>
+                                                        @Html.DisplayFor(modelItem => item.sex)
+                                                    </td>
+                                                    <td>
+                                                        @Html.DisplayFor(modelItem => item.txtCourse)
+                                                    </td>
+                                                    <td>
+                                                        @Html.DisplayFor(modelItem => item.TC)
+                                                    </td>
+                                                    <td>
+                                                        @Html.DisplayFor(modelItem => item.txtFeed)
+                                                    </td>
+                                                    <td>
+                                                        @Html.ActionLink("Edit", "Edit", new { id = item.id }, new { @class = "btn btn-success" })
+                                                        <input type="submit" asp-action="Delete" asp-route-id="@item.id" class="btn btn-danger" value="Delete" onclick="return confirm('Are you sure you want to delete record with ID = @item.id');" />
+                                                    </td>
+                                                </tr>
+
+                                            }
+
+                                        }
+
+                                    </tbody>
+                                </table>
+                                <input type="button" value="Create" class="btn btn-outline-primary" onclick="location.href='@Url.Action("Create", "Display")'" /><br>
+                            </form>
+<div class="container">
+    @if (pager.TotalPages > 0)
+    {
+        <ul class="pagination justify-content-end">
+            @for (var pge = pager.StartPage; pge <= pager.EndPage; pge++)
+            {
+                <li class="page-item" @(pge == pager.CurrentPage ? "active" : "")>
+                    <a class="page-link" asp-controller="Display" asp-action="list_display" asp-route-pg="@pge">@pge</a>
+                </li>
+            }
+        </ul>
+    }
+</div>

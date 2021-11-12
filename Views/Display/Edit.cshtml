@@ -1,0 +1,78 @@
+﻿@model display_entity
+
+<form asp-controller="Display"
+      asp-action="Edit" method="post">
+    <div>
+        <h4>Registorion From</h4>
+    </div><br>
+    <div class="form-group col-5">
+        <label>Student Name</label>
+        <input type="text" asp-for="txtName" class="form-control" id="txtName">
+    </div>
+
+    <div class="form-group form-check">
+        <label asp-for="sex">Sex</label><br>
+        <input class="form-check-input" type="radio" name="sex" id="exampleRadios1" value="male" checked>
+        <label class="form-check-label" for="sex1">
+            Male
+        </label><br>
+        <input class="form-check-input" type="radio" name="sex" id="exampleRadios1" value="female" checked>
+        <label class="form-check-label" for="sex1">
+            Female
+        </label><br>
+        <input class="form-check-input" type="radio" name="sex" id="exampleRadios1" value="other" checked>
+        <label class="form-check-label" for="sex1">
+            other
+        </label>
+    </div>
+    <div class="form-group col-5">
+
+        <label>Course</label><br>
+        <select asp-for="txtCourse" class="custom-select mr-sm-2" id="txtCourse">
+            <option selected>Choose...</option>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+        </select>
+        
+    </div>
+    <div class=" form-group form-check">
+
+        <label asp-for="TC">Technical Coverage</label><br>
+        <input class="form-check-input" type="radio" name="TC" id="exampleRadios2" value="Exellent" checked>
+        <label class="form-check-label" for="exampleRadios2">
+            Exellent
+        </label><br>
+        <input class="form-check-input" type="radio" name="TC" id="exampleRadios2" value="Good" checked>
+        <label class="form-check-label" for="exampleRadios2">
+            Good
+        </label><br>
+        <input class="form-check-input" type="radio" name="TC" id="exampleRadios2" value="Average" checked>
+        <label class="form-check-label" for="exampleRadios2">
+            Averager
+        </label><br>
+        <input class="form-check-input" type="radio" name="TC" id="exampleRadios2" value="Poor" checked>
+        <label class="form-check-label" for="exampleRadios2">
+            Poor
+        </label>
+    </div>
+
+    <div class="mb-3">
+        <label>FeedBack</label>
+        <textarea asp-for="txtFeed" class="form-control" id="txtFeed" placeholder="Required example textarea"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+@{
+    if (@TempData["Msg"] != null)
+    {
+        <script>
+
+            alert('@TempData["msg"]')
+        </script>
+
+    }
+}
