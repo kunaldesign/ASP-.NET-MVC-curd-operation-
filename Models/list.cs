@@ -11,7 +11,7 @@ namespace display_list.Models
     {
         public static List<display_entity> displays_student()
         {
-            SqlConnection con = new SqlConnection("Data Source=61.0.171.102;Initial Catalog=ESS;Persist Security Info=True;User ID=sa;Password=Turbopower76");
+            SqlConnection con = new SqlConnection("jn1PQ9CLQ3bbNmJ2uQidfaE2ig9WTypY");
 
             List<display_entity> displays_l = new List<display_entity>();
             SqlCommand com = new SqlCommand("Sp_tbl_select", con);

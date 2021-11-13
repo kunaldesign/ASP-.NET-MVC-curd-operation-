@@ -13,7 +13,7 @@ namespace display_list.Models
         public bool UpdateDetails(display_entity de)
         {
             int i;
-            SqlConnection con = new SqlConnection("Data Source=61.0.171.102;Initial Catalog=ESS;Persist Security Info=True;User ID=sa;Password=Turbopower76");
+            SqlConnection con = new SqlConnection("jn1PQ9CLQ3bbNmJ2uQidfaE2ig9WTypY");
             
                 SqlCommand cmd = new SqlCommand("sp_update", con);
                 cmd.CommandType = CommandType.StoredProcedure;
